@@ -213,7 +213,7 @@ def prompt_choice(
         label: The config item name.
         description: One-line explanation.
         choices: List of ``(value, one_line_description)`` tuples.
-        default: Pre-selected value.  Defaults to the first choice.
+        default: Preselected value.  Defaults to the first choice.
 
     Returns:
         The selected value string.
